@@ -3,6 +3,19 @@
 "description":"在原作者Softlyx的基础上新增，图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名，缺少的图标可投稿。", 
 "icons":
     [
-		{"name":"Emby", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Emby.png"}
+		{"name":"Emby", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Emby.png"},
+		{"name":"Emby1", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Emby1.png"},
+		{"name":"Emby2", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Emby2.png"},
+		{"name":"Emby3", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Emby3.png"},
+		{"name":"Emby4", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Emby4.png"},
+		{"name":"Emby5", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Emby5.png"},
+		{"name":"Emby6", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Emby6.png"},
+		{"name":"Emby7", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Emby7.png"},
+		{"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Jellyfin.png"},
+		{"name":"Openlist", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Openlist.png"},
+		{"name":"Plex", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Plex.png"},
+		{"name":"Plex1", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Plex1.png"},
+
+		
     ]
 }
