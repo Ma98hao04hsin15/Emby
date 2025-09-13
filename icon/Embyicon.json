@@ -15,7 +15,15 @@
 		{"name":"Openlist", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Openlist.png"},
 		{"name":"Plex", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Plex.png"},
 		{"name":"Plex1", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png//Plex1.png"},
-
-		
-    ]
+		{"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby.png"},
+		{"name":"Emby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby1.png"},
+		{"name":"Embys", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embys.png"},
+		{"name":"Embys1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embys1.png"},
+		{"name":"Embyks", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embyks.png"},
+		{"name":"Embyks1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embyks1.png"},
+		{"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Jellyfin.png"},
+		{"name":"Plex", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Plex.png"},
+		{"name":"Plex1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Plex1.png"},
+		{"name":"Plex2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Plex2.png"},
+	]
 }
