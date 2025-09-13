@@ -26,7 +26,6 @@
 		{"name":"PikPak", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/PikPak.png"},
 		
 	  	{"name":"Auroramedia", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Auroramedia.png"},
-		{"name":"Auroramedia1", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Auroramedia1.png"},
 		{"name":"Auroramedia2", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Auroramedia2.png"},
 		{"name":"Auroramedia3", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Auroramedia3.png"},
 		{"name":"Aurora", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Aurora.png"},
@@ -129,5 +128,7 @@
 		{"name":"SaturdayXperience1", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/SaturdayXperience1.png"},
 		{"name":"Tiannanxiaozhu", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Tiannanxiaozhu1.png"},
 		{"name":"Tiannanxiaozhu2", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Tiannanxiaozhu2.png"},
+		{"name":"Ash", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Ash.png"},
+		{"name":"Ash", "url":"https://raw.githubusercontent.com/Ma98hao04hsin15/Emby/refs/heads/main/png/Ash1.png"},
 	]
 }
